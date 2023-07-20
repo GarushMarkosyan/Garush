@@ -6,10 +6,21 @@ function getElement(id) {
     return document.getElementById(id);
 }
 
+function getRandomLogo() {
+    return Elements[Math.floor(Math.random(Elements.length - 1) * 10)]
+}
+
+function main() {
+    lg = getRandomLogo()
+    getElement("logo").src = lg.logo;
+}
+
+
 function timer() {
     setTimeout(finish, seconds * 1000)
     getElement("time").innerHTML = seconds;
     let countdown = setInterval(function () {
+        main ()
         seconds--;
         getElement("time").textContent = seconds;
         if (seconds <= 0) {
@@ -20,6 +31,7 @@ function timer() {
         }
     }, 1000)
 }
+
 function check() {
     let input;
     try {
@@ -27,18 +39,19 @@ function check() {
     } catch {
         return;
     }
-    if (input === "pubg mobile") {
+    if (input === "ամոնգ աս") {
         correctAnswer++;
         getElement("score").innerHTML = correctAnswer
-    }else {
+    } else {
         incorrectAnswer++;
     }
     clearInterval(checkInterval);
 }
 function finish() {
     clearInterval(checkInterval);
-    let percentage = (correctAnswer / (correctAnswer+incorrectAnswer)) *100;
+    let percentage = (correctAnswer / (correctAnswer + incorrectAnswer)) * 100;
     getElement("alertaccuracy").innerHTML = ` քո արդյունքն է ${percentage}%`;
 }
 let checkInterval = setInterval(check, 50);
 timer()
+

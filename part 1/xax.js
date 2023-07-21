@@ -8,107 +8,107 @@ const Elements = [
         "name": "անտիստրես"
     },
     {
-        "logo": "./logoner ca.svg",
+        "logo": "./images/download.jpeg",
         "name": "պուբգ.մոբայլ"
     },
     {
-        "logo": "./logoner ca.svg",
+        "logo": "./images/brawl.png",
         "name": "բրավլ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "car parking"
+        "logo": "./images/carparking.jpeg",
+        "name": "քարպարկինգ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "clash of clansh"
+        "logo": "./images/clashofclansh.jpeg",
+        "name": "քլեշ.օֆ.քլենշ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "fifa"
+        "logo": "./images/fifa.jpeg",
+        "name": "ֆիֆա"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "free fire"
+        "logo": "./images/freefire.jpeg",
+        "name": "ֆրի.ֆայեր"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "geometry dash"
+        "logo": "./images/geometrydash.jpeg",
+        "name": "գեոմետրի.դաշ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "granny"
+        "logo": "./images/granny.jpeg",
+        "name": "գռեյնի"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "hide online"
+        "logo": "./images/hide.online.jpeg",
+        "name": "հիդ.օնլայն"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "gta"
+        "logo": "./images/gta.jpeg",
+        "name": "ԳՏԱ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "hill climp racing"
+        "logo": "./images/hillclimpracing.jpeg",
+        "name": "հիլլ.քլիմպ.ռեյսինգ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "masha i medved"
+        "logo": "./images/mashaimedved.jpeg",
+        "name": "մաշա"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "millionater"
+        "logo": "./images/millionater.jpeg",
+        "name": "միլոնատեր"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "minecrafts"
+        "logo": "./images/minecraft.jpeg",
+        "name": "մաինքրաֆտ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "only up"
+        "logo": "./ images/onlyup.jpeg",
+        "name": "օնլի.ապ "
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "./pes"
+        "logo": "./images/pes.jpeg",
+        "name": "պես"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "red ball"
+        "logo": "./images/redball.jpeg",
+        "name": "ռեդ.բոլ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "roblox"
+        "logo": "./images/roblox.jpeg",
+        "name": "ռոբլոքս"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "shadow fight"
+        "logo": "./images/shadowfight.jpeg",
+        "name": "շհադով.ֆայգտ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "snake io"
+        "logo": "./images/snakeio.jpeg",
+        "name": "սնեյկ.իօ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "solar smash"
+        "logo": "./images/solarsmash.jpeg",
+        "name": "սոլար.սմաշ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "standoff"
+        "logo": "./images/standoff.jpeg",
+        "name": "ստենդոֆ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "subway surfers"
+        "logo": "./images/subwaysurfers.jpeg",
+        "name": "սուբվայ.սւրֆեր"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "toca boka"
+        "logo": "./images/tokaboka.jpeg",
+        "name": "տոկա.բոկա"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "tom"
+        "logo": "./images/tom.jpeg",
+        "name": "տոմ"
     },
     {
-        "logo": "./logoner ca.svg",
-        "name": "ufc"
+        "logo": "./images/ufc.jpeg",
+        "name": "ՈՒՖՍ"
     },
 ]

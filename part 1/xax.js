@@ -17,7 +17,7 @@ const Elements = [
     },
     {
         "logo": "./images/carparking.jpeg",
-        "name": "քարպարկինգ"
+        "name": "քար.պարկինգ"
     },
     {
         "logo": "./images/clashofclansh.jpeg",
@@ -40,7 +40,7 @@ const Elements = [
         "name": "գռեյնի"
     },
     {
-        "logo": "./images/hide.online.jpeg",
+        "logo": "./images/hideonline.jpeg",
         "name": "հիդ.օնլայն"
     },
     {
@@ -64,7 +64,7 @@ const Elements = [
         "name": "մաինքրաֆտ"
     },
     {
-        "logo": "./ images/onlyup.jpeg",
+        "logo": "./images/onlyup.jpeg",
         "name": "օնլի.ապ "
     },
     {

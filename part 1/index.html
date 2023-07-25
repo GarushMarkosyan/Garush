@@ -14,16 +14,13 @@
 
     <section class="card" id="card">
         <section class="infobar">
-            <div style="width: 7%" class="score"> Ճշգրտություն: <span id="alertaccuracy"></span></div>
-        </section>
-        <section class="infobar">
             <div class="'score">Միավոր: <span id="score">0</span></div>
-            <div class=" time" id="time">20</div>
+            <div class=" time" id="time"></div>
         </section>
         <div class=" container">
             <section class="section">
                 <div>
-                    <img src="./images/amongus.png" alt="logo" class="logo" id="logo">
+                    <img src="./images/amongus.png" alt="logo" class="lg" id="logo">
                 </div>
 
             </section>
@@ -51,10 +48,14 @@
             </section>
         </div>
     </section>
-    </div>
-    <script src="xax.js"></script>
-    <script src="main.js"></script>
-
+    <section id="alert" class="card">
+        <div class="alerttext">Միավոր: <span id="alertscore"></span></div>
+        <div class="alerttext">Ճշգրտություն: <span id="alertaccuracy"></span></div>
+        <br>
+        <button onclick="refresh()" class="button">Վերսկսել</button>
+    </section>
+    <script src='xax.js'></script>
+    <script src='main.js'></script>
 </body>
 
-</html>>
+</html>

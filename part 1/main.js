@@ -1,5 +1,5 @@
 let correct
-let seconds = 15;
+let seconds = 60;
 let correctAnswer = 0
 let incorrectAnswer = 0
 

@@ -1,114 +1,115 @@
 const Elements = [
     {
         "logo": "./images/amongus.png",
-        "name": "ամոնգ.աս"
+        "name": "among us"
     },
     {
         "logo": "./images/antistress.webp",
-        "name": "անտիստրես"
+        "name": "antistress"
     },
     {
         "logo": "./images/download.jpeg",
-        "name": "պուբգ.մոբայլ"
+        "name": "pubg mobile"
     },
     {
         "logo": "./images/brawl.png",
-        "name": "բրավլ"
+        "name": "brawl stars"
     },
+    
     {
         "logo": "./images/carparking.jpeg",
-        "name": "քար.պարկինգ"
+        "name": "car parking"
     },
     {
         "logo": "./images/clashofclansh.jpeg",
-        "name": "քլեշ.օֆ.քլենշ"
+        "name": "clash of clansh"
     },
     {
         "logo": "./images/fifa.jpeg",
-        "name": "ֆիֆա"
+        "name": "fifa mobile"
     },
     {
         "logo": "./images/freefire.jpeg",
-        "name": "ֆրի.ֆայեր"
+        "name": "free fire"
     },
     {
         "logo": "./images/geometrydash.jpeg",
-        "name": "գեոմետրի.դաշ"
+        "name": "geometry dash"
     },
     {
         "logo": "./images/granny.jpeg",
-        "name": "գռեյնի"
+        "name": "granny"
     },
     {
         "logo": "./images/hideonline.jpeg",
-        "name": "հիդ.օնլայն"
+        "name": "hide online"
     },
     {
         "logo": "./images/gta.jpeg",
-        "name": "ԳՏԱ"
+        "name": "gta"
     },
     {
         "logo": "./images/hillclimpracing.jpeg",
-        "name": "հիլլ.քլիմպ.ռեյսինգ"
+        "name": "hill climp racing"
     },
     {
         "logo": "./images/mashaimedved.jpeg",
-        "name": "մաշա"
+        "name": "masha"
     },
     {
         "logo": "./images/millionater.jpeg",
-        "name": "միլոնատեր"
+        "name": "millionater"
     },
     {
         "logo": "./images/minecraft.jpeg",
-        "name": "մաինքրաֆտ"
+        "name": "minecraft"
     },
     {
         "logo": "./images/onlyup.jpeg",
-        "name": "օնլի.ապ "
+        "name": "only up"
     },
     {
         "logo": "./images/pes.jpeg",
-        "name": "պես"
+        "name": "pes"
     },
     {
         "logo": "./images/redball.jpeg",
-        "name": "ռեդ.բոլ"
+        "name": "red ball"
     },
     {
         "logo": "./images/roblox.jpeg",
-        "name": "ռոբլոքս"
+        "name": "roblox"
     },
     {
         "logo": "./images/shadowfight.jpeg",
-        "name": "շհադով.ֆայգտ"
+        "name": "shadow fight"
     },
     {
         "logo": "./images/snakeio.jpeg",
-        "name": "սնեյկ.իօ"
+        "name": "snake io"
     },
     {
         "logo": "./images/solarsmash.jpeg",
-        "name": "սոլար.սմաշ"
+        "name": "solar smash"
     },
     {
         "logo": "./images/standoff.jpeg",
-        "name": "ստենդոֆ"
+        "name": "standoff"
     },
     {
         "logo": "./images/subwaysurfers.jpeg",
-        "name": "սուբվայ.սւրֆեր"
+        "name": "subway surfers"
     },
     {
         "logo": "./images/tokaboka.jpeg",
-        "name": "տոկա.բոկա"
+        "name": "toka boka"
     },
     {
         "logo": "./images/tom.jpeg",
-        "name": "տոմ"
+        "name": "tom"
     },
     {
         "logo": "./images/ufc.jpeg",
-        "name": "ՈՒՖՍ"
+        "name": "ufc"
     },
 ]
